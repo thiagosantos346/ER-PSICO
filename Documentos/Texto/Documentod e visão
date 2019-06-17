@@ -1,63 +1,63 @@
 Esta introdução fornece uma visão geral de todo o documento de visão. Ela inclui o propósito, escopo, definições, acrônimos, abreviações, referências e visão geral de todo o documento.
 
-O solução computacional visa tratar de aspectos de negócio intrínsecos da atuação de clínica psicológica em geral, visando o nicho de mercado de media e pequena atuação.
+O solução computacional visa tratar de aspectos de negócio intrínsecos da atuação de clínica psicológica em geral, visando o nicho de mercado de média e pequena atuação.
 
-O proposito geral é fornecer uma ferramenta que auxilia na organização dos agendamentos, e procesos de cadastro de pacientes, visando com isso manter um controle dos atendimentos, e buscar vantagem competiva com base no bom atendimento e pontualidade das atividades.
+O propósito geral é fornecer uma ferramenta que auxilia na organização dos agendamentos, e processos de cadastro de pacientes, visando com isso manter um controle dos atendimentos, e buscar vantagem competitiva com base no bom atendimento e pontualidade das atividades.
 
 A solução tecnológica é baseado em sistemas [web], e banco de dados relacional, com múltiplas visões dos dados, dedicadas a cada papel incorporado dentro da organização.
 
 Esse documento visa mostrar os requisitos de negócio que mais fazem sentido para o desenvolvimento do projeto.
 
-Oportunidade de Negócios: Tendo em vista que dado o número de atividades exercidas hoje por qualquer individuo, e o número crescente de distúrbios psicológicos que se desenvolvem em um ser humano no contexto do século XXI, cada vez mais relacionados com trabalhos que exigem esforço mental e que por consequência tiram tempo de tratamento ou de prevenção destes problemas, organizar o atendimento com mais flexibilidade para o atendimento e muitas vezes até remarcar, cria um conforto maior para quem precisa desse tipo de serviço.
+Oportunidade de Negócios: Tendo em vista que dado o número de atividades exercidas hoje por qualquer indivíduo, e o número crescente de distúrbios psicológicos que se desenvolvem em um ser humano no contexto do século XXI, cada vez mais relacionados com trabalhos que exigem esforço mental e que por consequência tiram tempo de tratamento ou de prevenção destes problemas, organizar o atendimento com mais flexibilidade para o atendimento e muitas vezes até remarcar, cria um conforto maior para quem precisa desse tipo de serviço.
 
 Instrução do Problema: Resume o problema que este projeto resolve. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
 
 É mais recorrente os casos de transtornos de saúde mental segundo OMS, e a carga horária de trabalho médio somado a carga de estudo e ou outras atividades que profissionais desenvolve  é cada vez mais alta, mesmo nos casos de profissionais de mão de obra não especializada.
-Em decorrer dessa situação indivíduos que desejam cuidar melhor da sua saúde mental, tendem a ter problemas para conseguir controlar a agenda pessoal, e do outro lado da balança clinicas que oferecem esse tipo de serviços tendem a sofrer com a falta de pacientes em seu compromissos.
+Em decorrer dessa situação indivíduos que desejam cuidar melhor da sua saúde mental, tendem a ter problemas para conseguir controlar a agenda pessoal, e do outro lado da balança clínicas que oferecem esse tipo de serviços tendem a sofrer com a falta de pacientes em seu compromissos.
 Sendo assim ferramentas tecnológicas podem proporcionar mais flexibilidade tendo em vista que as respostas de ambas as partes são tramitadas com muito mais velocidade.
 
 
 Instrução de Posição do Produto Fornece uma instrução geral resumida no nível mais alto, a posição exclusiva que o produto pretende preencher no mercado de trabalho. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
 
-O nosso cliente alvo são clinicas psicológicas, que carecem principalmente de controle da entrada e saída de pacientes, muito embora essa solução não irá resolver esse problema, pois o mesmo é fora de questão, é possível amenizar os problema em decorrer do fluxo de trabalho empírico que é empregado em qualquer organização que não controla ou e tem dados sobre seus clientes.
-Sendo assim é visto que a importância de controle da agenda comum da clinica é um ponto chave inclusive para confecção de planos para o orçamento mensal.
+O nosso cliente alvo são clínicas psicológicas, que carecem principalmente de controle da entrada e saída de pacientes, muito embora essa solução não irá resolver esse problema, pois o mesmo é fora de questão, é possível amenizar os problema em decorrer do fluxo de trabalho empírico que é empregado em qualquer organização que não controla ou e tem dados sobre seus clientes.
+Sendo assim é visto que a importância de controle da agenda comum da clínica é um ponto chave inclusive para confecção de planos para o orçamento mensal.
 
-Clientes cada vez mais costumam exigir soluções tecnológicas que visam facilitar a experiencia de usuário. Enquanto que, para os prestadores de serviço a perca inesperada de um agendamento  possa resultar em prejuízo para a organização.
-Cada vez mais administradores desejam fazer projeções futuras de gastos e lucros para ganho de vantagem competitiva perante ao atual mercado especializado e fragmentado.
+  Clientes cada vez mais costumam exigir soluções tecnológicas que visam facilitar a experiência de usuário. Enquanto que, para os prestadores de serviço a perda inesperada de um agendamento  possa resultar em prejuízo para a organização.
+  Cada vez mais administradores desejam fazer projeções futuras de gastos e lucros para ganho de vantagem competitiva perante ao atual mercado especializado e fragmentado.
 
-
-Resumo da Parte Interessada: Lista todas as partes interessadas identificadas. Para cada tipo de parte interessada, forneça estas informações:
+Partes Interessadas: 
 
     Nome: Funcionários internos.
-    Representa: Apoio as atividades da organização.
-    Função: Apoio a as atividades de profissionais e administradores, para agilizar a parte burocrática da organização.
+                Representa: Apoio às atividades da organização.
+                Função: Apoio a as atividades de profissionais e administradores, para agilizar a parte burocrática da organização.
 
     Nome: Profissionais da saúde mental.
-    Representa: O principal agende de mudança e execução das atividades o ponto central das atividades.
-    Função: Atendimento a pacientes, triagem, acompanhamento, reagendamento e confeção de documentos que atestam a execução de suas atividades.
+    Representa: O principal agente de mudança e execução das atividades o ponto  central das atividades.
+                Função: Atendimento a pacientes, triagem, acompanhamento, agendamento e confecção de documentos que atestam a execução de suas atividades.
 
     Nome: Administradores.
-    Representa: Responsáveis pelo planejamento, organização, direção e controle da organização, minimamente tomando decisões do funcionamento da prestação de servições e coordenação das atividades exercidas para o funcionamento da organização.
+Representa: Responsáveis pelo planejamento, organização, direção e controle da organização, minimamente tomando decisões do funcionamento da prestação de serviços e coordenação das atividades exercidas para o funcionamento da organização.
+         Função: Tomada de decisão, sendo o ponto central estratégico da organização.
 
-    Função: Tomada de decisão, sendo o ponto cental estategico da organização.
-
-    Nome: Clientes.
+    4. Nome: Clientes.
     Representa: Beneficiário dessa organização.
-    Função: Uso dos servições disponíveis mediante a remuneração dos envolvidos além de si mesmo.
+    Função: Uso dos serviços disponíveis mediante a remuneração dos envolvidos além de si     mesmos.
 
 
-A organização carece de mais informações para apoio a tomada de decisão, e consequentemente evitar prejuízos, enquanto que os clientes carecem de atendimento cada vês mais dinâmicos tendo em vista a complexidade das atividades requisitadas em sociedades de médio e grande porte.
+  A organização carece de mais informações para apoio a tomada de decisão, e consequentemente evitar prejuízos, enquanto que os clientes carecem de atendimento cada vez mais dinâmicos, tendo em vista a complexidade das atividades requisitadas em sociedades de médio e grande porte.
 
-Existem inúmeras outras ferramentas que argumentam tratar o problema relatada, mas nenhuma focada no eixo central que a agenda da clinica, e no contexto goiano de software não foi encontrada nenhuma solução que tenha empregado novas tecnologias e infelizmente as que foram vistas não contam com a qualidade adequada.
+Das ferramentas encontradas em nossas entrevistas, foi constatado que: 
+  Existem inúmeras outras ferramentas que argumentam tratar o problema relatado, mas nenhuma é focada no eixo central que a agenda da clínica, e no contexto goiano de software não foi encontrada nenhuma solução que tenha empregado novas tecnologias e infelizmente as que foram vistas não contam com a qualidade adequada.
 
-Os custos tendem a vaiar de acordo com a velocidade exigida para produção do sistema, pois a media de remuneração de um desenvolvedor de software fica próximo aos 3 Mil, reais para iniciantes, e 10 Mil para arquiteto, o que resume o mínimo para a produção de software com projeto robusto, claro que com o crescimento da complexidade esse profissionais podem a vir a crescer e até a adesão de novos cargos.
+  Os custos tendem a variar de acordo com a velocidade exigida para produção do sistema, pois a média de remuneração de um desenvolvedor de software fica próximo aos 3 Mil, reais para iniciantes, e 10 Mil para arquiteto, o que resume o mínimo para a produção de software com projeto robusto, claro que com o crescimento da complexidade esse profissionais podem a vir a crescer e até a adesão de novos cargos.
 Depois de pronto é preciso dar suporte ao sistema, o que pode variar dependendo das necessidades do sistema.
 
-Como o modelo acima é bem defasado, a melhor opção é o modelo de software as service, ou seja software como um serviço e não produto como esse documento de visão que também está defasado propõem, pois possibilita uma vasão maior de usuário e constantemente entradas de respostas de usuários mais fidedignas para melhoria continua desse software.
+  Como o modelo acima é bem defasado, a melhor opção é o modelo de software as service, ou seja software como um serviço e não produto como esse documento de visão que também está defasado propõem, pois possibilita uma vazão maior de usuário e constantemente entradas de respostas de usuários mais fidedignas para melhoria contínua desse software.
 
     Controle de papeis do sistema:
         Apoio administrativo.
         Execução de atividades, para profissionais controladas.
-        Acesso a agenda da clinica para usuários e profissionais.
+        Acesso a agenda da clínica para usuários e profissionais.
         Agregação dos dados coletados na aplicação.
-        Recursos futuros como inteligencia de negócios e modulo fiscal/financeiro.
+        Recursos futuros como inteligência de negócios e módulo fiscal/financeiro.
+
